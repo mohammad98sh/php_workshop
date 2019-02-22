@@ -1,0 +1,10 @@
++     :   mathematical add
+-     :   mathematical substraction
+*     :   mathematical multiple
+/     :   mathematical dividing
+%     :   mathematical remaining of the divide
+**    :   mathematical power
+=     :   appointment
+==    :   equality
+a+=c  :   a=a+c
+a*=c  :   a=a*c
