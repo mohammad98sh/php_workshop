@@ -11,6 +11,6 @@ Let's get started ;)
 ---
 Need Help ?
 contact me -> {
-Telegram : t.me/mohammad98sh
+Telegram : @mohammad98sh ---
 Email : mohm98.sh@gmail.com
 }
